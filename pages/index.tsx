@@ -36,7 +36,7 @@ export default function Gallery({ images }: { images: Image[] }) {
   return (
     <div>
       <h1 className="font-extrabold tracking-tight text-gray-900 text-2xl px-5 py-5">
-        My MTG List Update
+        My MTG List Gallery
       </h1>
 
       <div className="mx-auto max-w-2xl py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
